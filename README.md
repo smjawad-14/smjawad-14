@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm S. M. Jawad</h1>
-<h3 align="center">A passionate Software developer, Networking and IT Support from Bangladesh</h3>
+<h3 align="center">IT Officer with experience in IT infrastructure support, hardware and software maintenance, networking, CCTV sys
+tems, and end-user support</h3>
 
-- 🔭 I’m currently working on **tourist apllicatication**
-
-- 🌱 I’m currently learning **Fast api and Networking**
+- 🌱 I’m currently learning **VM Server and Networking**
 
 - 📫 How to reach me **smjawad828@gmail.com**
 
